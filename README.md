@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manhattan_Jaspers_logo.svg/1200px-Manhattan_Jaspers_logo.svg.png" />
+  <img height="150" src="your_image_hosting_link_here" />
 </div>
 
 ###
@@ -62,4 +62,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=yourusername&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
