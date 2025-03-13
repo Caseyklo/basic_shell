@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="your_image_hosting_link_here" />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caseyklo.Caseyklo&" />
 </div>
 
 ###
@@ -27,10 +27,11 @@
 ###
 
 <p align="left">
-- 🎓 I'm a junior at Manhattan College, majoring in Business Analytics.<br>
-- 🥍 I play Division 1 Lacrosse for the Jaspers.<br>
-- 💡 I'm passionate about data analysis, business strategy, and sports analytics.<br>
-- ⚡ In my free time, I enjoy working out, gaming, and exploring new tech trends.<br>
+- 🎓 I'm a junior at **Manhattan College**, majoring in **Business Analytics**.<br>
+- 🥍 I play **D1 Lacrosse** for the Jaspers.<br>
+- 📊 Passionate about **data analytics, business strategy, and sports analytics**.<br>
+- 🖥️ Currently working with **R, Python, and Tableau** for analytics projects.<br>
+- ⚡ In my free time, I enjoy **working out, gaming, and keeping up with sports**.<br>
 </p>
 
 ###
@@ -40,17 +41,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" alt="excel logo" />
 </div>
 
 ###
@@ -60,5 +61,5 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yourusername&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Caseyklo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
